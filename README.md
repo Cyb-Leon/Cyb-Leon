@@ -1,12 +1,22 @@
-👋 Hi, I’m Leon
+
+**Hi there, I'm Leon!👋**
+
+
+About me:
+
+Hi, I'm **Leon Ndaba**, a Software Engineer from the Southern part of Africa. Passionate about writting code, eating cold pizza 🍕 and drinking juice 🧃.
 - 👀 I’m interested in:
      - Designing systems.
      - Network & Database security.
      - And creating databases & security systems.
-- 🌱 I’m currently learning how to make clone web/mobile applications for different uses.
-- 💞️ I’m looking to collaborate on any security related programs using JAVA/Python/C++
-- 📫 How to reach me
-     - :computer: Discord: Cyb. Leo#8556
+
+- ❤️ I love writting code and reading.
+- 📚 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate and become more participatory in the community
+- 💬 Ask me about anything [here](https://discord.gg/hXPHycD6)
+   - :computer: Discord: server
+- 📫 How to reach me : Discord or Twitter
+Languages and Frameworks:
 
 <!---
 zamokuhlendaba/zamokuhlendaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
