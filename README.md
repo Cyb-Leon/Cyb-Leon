@@ -16,7 +16,7 @@ Hi, I'm **Leon Ndaba**, a Software Engineer from the Southern part of Africa. Pa
 - 💬 Ask me about anything [here](https://discord.gg/hXPHycD6)
    - :computer: Discord: server
 - 📫 How to reach me : Discord or Twitter
-Languages and Frameworks:
+
 
 <!---
 zamokuhlendaba/zamokuhlendaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
