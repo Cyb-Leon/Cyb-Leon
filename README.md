@@ -4,7 +4,7 @@
 
 About me:
 
-Hi, I'm **Leon Ndaba**, a Software Engineer from the Southern part of Africa. Passionate about writting code, eating cold pizza 🍕 and drinking juice 🧃.
+Hi, I'm **Zamokuhle Leon Ndaba**, a Software Engineer from the Southern part of Africa. Passionate about writting code, eating cold pizza 🍕 and drinking juice 🧃.
 - 👀 I’m interested in:
      - Designing systems.
      - Network & Database security.
