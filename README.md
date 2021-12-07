@@ -1,6 +1,7 @@
 
 **Hi there, I'm Leon!👋**
 
+first of, MAVEL - SPIDERMAN , DC - BATMAN.
 
 About me:
 
@@ -10,12 +11,12 @@ Hi, I'm **Z.V Leon Ndaba**, a Software Engineer from the Southern part of Africa
      - Network & Database security.
      - And creating databases & security systems.
 
-- ❤️ I love writting code and reading.
+- ❤️ Reading & writing is a thing.
 - 📚 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate and become more participatory in the community
 - 💬 Ask me about anything [here](https://discord.gg/hXPHycD6)
    - :computer: Discord: server
-- 📫 How to reach me : Discord or Twitter
+- 📫 How to reach me : Discord
 
 
 <!---
