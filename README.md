@@ -1,7 +1,7 @@
 
 **Hi there, I'm Leon!👋**
 
-first of, MAVEL - SPIDERMAN , DC - BATMAN.
+first of, MARVEL - SPIDERMAN , DC - BATMAN.
 
 About me:
 
